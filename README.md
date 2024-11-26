@@ -4,9 +4,9 @@ I've tested the 2 inputs given - Target, M&M Corner Market (Retailers).
 
 Prerequisites
 
-  1.  Install Java (change version if it not 21 in dockerfile).
-	2.	Install Maven.
-	3.	Install Docker (optional, if running in a container).
+	1. Install Java (change version if it not 21 in dockerfile).
+	2. Install Maven.
+	3. Install Docker (optional, if running in a container).
 
 To build- mvn clean package
 To run - mvn spring-boot:run
